@@ -1,0 +1,34 @@
+.title {
+    font-size: 30px;
+    
+  }
+  
+  h1 {
+    margin: 30px;
+  }
+  
+  .bo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .btn-joke {
+    width: 18rem;
+    height: 5.5rem;
+    background-color: #c33fb3;
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: .1rem;
+    border-top: 2px solid #dbdb59;
+    border-bottom: 2px solid rgb(228 228 32);
+    border-left: none;
+    border-right: none;
+    border-radius: 12px;
+  }
+  
+  .btn-joke:hover {
+    cursor: pointer;
+    border-color: #073d5f;
+    border-width: 1px;
+  }

@@ -1,0 +1,31 @@
+.joke {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 35ch;
+  background-color: rgb(241, 241, 166);
+  font-size: calc(1.3rem + .2vw);
+  letter-spacing: .1rem;
+  width: 80%;
+  padding: 10px;
+  border-style: solid;
+  border-radius: 10px;
+  }
+  
+  .green {
+    background: #9bc53d;
+  }
+  
+  .red {
+    background: #c3423f;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  
+  button:hover {
+    cursor: auto;
+  }
